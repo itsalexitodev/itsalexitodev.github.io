@@ -1,0 +1,27 @@
+/* Resetear los estilos de la lista */
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Estilos de los elementos de la lista */
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+    /* Espacio entre elementos */
+}
+
+
+/* Estilos de los enlaces de navegación */
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    /* Color del texto */
+    font-weight: bold;
+    /* Fuente en negrita */
+}
